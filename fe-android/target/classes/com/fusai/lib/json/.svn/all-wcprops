@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/json
+END
+EntityRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/json/EntityRepository.class
+END
+JsonDeserializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/json/JsonDeserializer.class
+END
+JsonField.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/json/JsonField.class
+END
+ScalarValueParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/json/ScalarValueParser.class
+END
+EntityFieldMetadata.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/json/EntityFieldMetadata.class
+END
+JsonSerializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/json/JsonSerializer.class
+END

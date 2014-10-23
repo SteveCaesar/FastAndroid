@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient
+END
+SerializableCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/SerializableCookie.java
+END
+BinaryHttpResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/BinaryHttpResponseHandler.java
+END
+RetryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/RetryHandler.java
+END
+AsyncHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/AsyncHttpRequest.java
+END
+JsonHttpResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/JsonHttpResponseHandler.java
+END
+PersistentCookieStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/PersistentCookieStore.java
+END
+SimpleMultipartEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/SimpleMultipartEntity.java
+END
+AsyncHttpResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/AsyncHttpResponseHandler.java
+END
+AsyncHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/AsyncHttpClient.java
+END
+FileHttpResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/FileHttpResponseHandler.java
+END
+RequestParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/http/AsyncHttpClient/RequestParams.java
+END

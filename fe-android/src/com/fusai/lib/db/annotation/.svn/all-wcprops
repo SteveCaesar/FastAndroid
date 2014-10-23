@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/fe-jiaxin/!svn/ver/533/10-code/2.0/fe-android/src/com/fusai/lib/db/annotation
+END
+DatabasePrimaryKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/db/annotation/DatabasePrimaryKey.java
+END
+DatabaseColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/db/annotation/DatabaseColumn.java
+END
+DatabaseForeignKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/fe-jiaxin/!svn/ver/533/10-code/2.0/fe-android/src/com/fusai/lib/db/annotation/DatabaseForeignKey.java
+END
+DatabaseTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/fe-jiaxin/!svn/ver/219/10-code/2.0/fe-android/src/com/fusai/lib/db/annotation/DatabaseTable.java
+END

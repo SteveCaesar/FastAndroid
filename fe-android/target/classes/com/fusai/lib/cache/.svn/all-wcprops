@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/cache
+END
+BitmapCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/cache/BitmapCache.class
+END
+LruCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/cache/LruCache.class
+END

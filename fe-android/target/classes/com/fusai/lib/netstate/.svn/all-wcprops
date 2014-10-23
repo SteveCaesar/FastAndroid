@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/netstate
+END
+NetworkStateReceiver.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/netstate/NetworkStateReceiver.class
+END
+NetChangeObserver.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/netstate/NetChangeObserver.class
+END
+NetWorkUtil$NetType.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/netstate/NetWorkUtil$NetType.class
+END
+NetWorkUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/com/fusai/lib/netstate/NetWorkUtil.class
+END

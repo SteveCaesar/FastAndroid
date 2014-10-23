@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fe-jiaxin/!svn/ver/635/10-code/2.0/fe-android/src/com/fusai/lib/db/entity
+END
+BaseDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fe-jiaxin/!svn/ver/612/10-code/2.0/fe-android/src/com/fusai/lib/db/entity/BaseDB.java
+END
+FieldMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fe-jiaxin/!svn/ver/612/10-code/2.0/fe-android/src/com/fusai/lib/db/entity/FieldMetadata.java
+END
+EntityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fe-jiaxin/!svn/ver/635/10-code/2.0/fe-android/src/com/fusai/lib/db/entity/EntityMetadata.java
+END

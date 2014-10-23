@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes
+END
+DownLoadConfigUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/DownLoadConfigUtil.class
+END
+UI.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/UI.class
+END
+DateUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/DateUtils.class
+END
+DiskCacheUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/DiskCacheUtils.class
+END
+MobileFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/MobileFormat.class
+END
+DownloadManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/DownloadManager.class
+END
+DownLoadCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/DownLoadCallback.class
+END
+IDownloadService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/IDownloadService.aidl
+END
+AndroidVersionUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/AndroidVersionUtils.class
+END
+StringUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/StringUtils.class
+END
+DownloadManager$handlerQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/fe-jiaxin/!svn/ver/261/10-code/2.0/fe-android/target/classes/DownloadManager$handlerQueue.class
+END
