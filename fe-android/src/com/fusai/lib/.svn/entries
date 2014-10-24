@@ -1,52 +1,0 @@
-10
-
-dir
-710
-https://192.168.1.47/svn/fe-jiaxin/10-code/2.0/fe-android/src/com/fusai/lib
-https://192.168.1.47/svn/fe-jiaxin
-
-
-
-2014-09-25T06:16:38.490821Z
-635
-xuyouyao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2e15b7d5-65ee-e640-8dce-069818f3f189
-
-http
-dir
-
-log
-dir
-
-cache
-dir
-
-db
-dir
-
-config
-dir
-
-download
-dir
-
-netstate
-dir
-
-json
-dir
-
