@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_database"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="数据库Demo" />
+
+    <Button
+        android:id="@+id/btn_network"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="网络Demo" />
+
+    <Button
+        android:id="@+id/btn_appException"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点我奔溃" />
+
+    <Button
+        android:id="@+id/btn_exitApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="退出应用" />
+
+</LinearLayout>
