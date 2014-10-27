@@ -48,7 +48,10 @@
 ----
 
 #关于使用
-* 请查看FastAndroidDemo
+* 1.下载FastAndroid到本地
+* 2.为自己android项目添加与FastAndroid的依赖关系
+* 3.由于视图注解用的是butterknife，需要在eclipse里面进行相关的配置，否则会出现空指针异常，详情参见butterknife网站http://jakewharton.github.io/butterknife/ide-eclipse.html
+* 4.具体的API使用请参见FastAndroidDemo
 
 #关于作者
 * 一位比普通码农掌握更先进生产方式的码农
