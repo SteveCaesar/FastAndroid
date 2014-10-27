@@ -1,11 +1,11 @@
-#fe-android 交流平台
+#FastAndroid 交流平台
 * QQ群：263725749
 ----
 
-#fe-android简介 
- fe-android是一个借鉴了JavaWeb三大框架优秀思想的移动端android框架，使用fe-android可以避开android本身复杂的API逻辑，将更多的时间投入到项目本身的业务逻辑中，从而减少开发成本，解放一定量生产力。
+#FastAndroid简介 
+ FastAndroid是一个借鉴了JavaWeb三大框架优秀思想的移动端android框架，使用FastAndroid可以避开android本身复杂的API逻辑，将更多的时间投入到项目本身的业务逻辑中，从而减少开发成本，解放一定量生产力。
 
-##目前fe-android主要有以下模块：
+##目前FastAndroid主要有以下模块：
 
 * MVC模块：实现视图与模型的分离。
 
@@ -31,7 +31,7 @@
 * 常用工具类：时间、字符串、IO、android版本等工具类
 
 ---
-## 使用fe-android快速开发框架需要有以下权限：
+## 使用FastAndroid快速开发框架需要有以下权限：
 
 
 	<!--检查网络状态 -->
@@ -48,7 +48,7 @@
 ----
 
 #关于使用
-* 请查看fe-androidDemo
+* 请查看FastAndroidDemo
 
 #关于作者
 * 一位比普通码农掌握更先进生产方式的码农
