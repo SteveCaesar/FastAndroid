@@ -1,4 +1,4 @@
-package com.fastandroid;
+﻿package com.fastandroid;
 
 import java.io.File;
 import java.lang.Thread.UncaughtExceptionHandler;
@@ -55,7 +55,10 @@ public class MyApplication extends Application {
 	private BitmapMemoryCache bitmapMemoryCache;
 	/** 图片加载器 */
 	private ImageLoader mImageLoader;
-	/** 缓存数据，多用于数据传递，数据不使用后，请务必将其从此集合中移除，防止内存泄漏发生 */
+	/**
+	 * 用于各组件之间互相传递数据，数据不使用后，请务必将其从此集合中移除，防止内存泄漏发生(注意：组件必须在同一个进程里面，才能互相传递数据，
+	 * 如果不在同一个进程请使用android Bundle类)
+	 */
 	protected HashMap<String, Object> appData;
 	/** 应用程序Activity管理器 */
 	private TAAppManager mAppManager;
